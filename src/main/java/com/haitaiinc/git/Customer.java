@@ -7,6 +7,8 @@ public class Customer {
 		System.out.println( "main ... ");
 		
 		System.out.println("customer....123");
+	    System.out.println( "hello....."); 
+		System.out.println("hello....123");
 	}
 	
 }
